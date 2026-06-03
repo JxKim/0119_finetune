@@ -3970,7 +3970,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uelSzGq3u6PtzkvrVr5i" name="05-LLM推理">
-    <mxGraphModel dx="3264" dy="1619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3309" dy="1641" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5332,6 +5332,9 @@
         </mxCell>
         <mxCell id="-VlYE09TAhGmRK6XJcK8-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="这个哈希值，通过查表，查不到已有的block，所以只能分配新的block" vertex="1">
           <mxGeometry height="30" width="300" x="1910" y="2787" as="geometry" />
+        </mxCell>
+        <mxCell id="-VlYE09TAhGmRK6XJcK8-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="底层会基于两个阈值挑选队列：max_num_batched_tokens,&lt;div&gt;max_num_seqs&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="192.5" x="684.5" y="4624" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
