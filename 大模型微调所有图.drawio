@@ -3970,7 +3970,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uelSzGq3u6PtzkvrVr5i" name="05-LLM推理">
-    <mxGraphModel dx="4266" dy="2273" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3264" dy="1619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5265,39 +5265,39 @@
           <mxGeometry height="30" width="60" x="1465" y="2710.5" as="geometry" />
         </mxCell>
         <mxCell id="likj9bMMNIDErpeLrGPM-335" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Seq - 3的token_ids: [ 112, 114, 110， 111 ]" vertex="1">
-          <mxGeometry height="30" width="401" x="1481" y="2832" as="geometry" />
+          <mxGeometry height="30" width="401" x="1470" y="2890" as="geometry" />
         </mxCell>
         <mxCell id="likj9bMMNIDErpeLrGPM-336" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="[112, 114]" vertex="1">
-          <mxGeometry height="60" width="81" x="1556" y="2891" as="geometry" />
+          <mxGeometry height="60" width="81" x="1545" y="2949" as="geometry" />
         </mxCell>
         <mxCell id="likj9bMMNIDErpeLrGPM-337" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" value="">
           <mxGeometry relative="1" width="140" as="geometry">
             <Array as="points" />
-            <mxPoint x="1659" y="2921" as="sourcePoint" />
-            <mxPoint x="1799" y="2921" as="targetPoint" />
+            <mxPoint x="1648" y="2979" as="sourcePoint" />
+            <mxPoint x="1788" y="2979" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="likj9bMMNIDErpeLrGPM-338" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="hash: 87" vertex="1">
-          <mxGeometry height="30" width="104" x="1800" y="2906" as="geometry" />
+          <mxGeometry height="30" width="104" x="1789" y="2964" as="geometry" />
         </mxCell>
         <mxCell id="likj9bMMNIDErpeLrGPM-339" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="[110, 111]" vertex="1">
-          <mxGeometry height="60" width="81" x="1556" y="2990" as="geometry" />
+          <mxGeometry height="60" width="81" x="1545" y="3048" as="geometry" />
         </mxCell>
         <mxCell id="likj9bMMNIDErpeLrGPM-340" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" value="">
           <mxGeometry relative="1" width="140" as="geometry">
             <Array as="points" />
-            <mxPoint x="1659" y="3020" as="sourcePoint" />
-            <mxPoint x="1799" y="3020" as="targetPoint" />
+            <mxPoint x="1648" y="3078" as="sourcePoint" />
+            <mxPoint x="1788" y="3078" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="likj9bMMNIDErpeLrGPM-341" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="hash: 90" vertex="1">
-          <mxGeometry height="30" width="104" x="1800" y="3005" as="geometry" />
+          <mxGeometry height="30" width="104" x="1789" y="3063" as="geometry" />
         </mxCell>
         <mxCell id="likj9bMMNIDErpeLrGPM-342" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="hash: 87" vertex="1">
-          <mxGeometry height="30" width="104" x="1372" y="3006" as="geometry" />
+          <mxGeometry height="30" width="104" x="1361" y="3064" as="geometry" />
         </mxCell>
         <mxCell id="likj9bMMNIDErpeLrGPM-343" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="➕" vertex="1">
-          <mxGeometry height="30" width="60" x="1476" y="3001.5" as="geometry" />
+          <mxGeometry height="30" width="60" x="1465" y="3059.5" as="geometry" />
         </mxCell>
         <mxCell id="likj9bMMNIDErpeLrGPM-344" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="ref_count = 1" vertex="1">
           <mxGeometry height="30" width="133" x="1992" y="2319" as="geometry" />
@@ -5310,6 +5310,28 @@
         </mxCell>
         <mxCell id="likj9bMMNIDErpeLrGPM-347" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="7个token_ids: block_size = 2,&lt;div&gt;此时会分配4个block, 前3个block都是满的，就会去计算hash，最后一个block是不满，不会计算hash，&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="344" x="958" y="2536" as="geometry" />
+        </mxCell>
+        <mxCell id="-VlYE09TAhGmRK6XJcK8-1" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="[115, 116]" vertex="1">
+          <mxGeometry height="60" width="81" x="1541.5" y="2772" as="geometry" />
+        </mxCell>
+        <mxCell id="-VlYE09TAhGmRK6XJcK8-2" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" value="">
+          <mxGeometry relative="1" width="140" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1644.5" y="2802" as="sourcePoint" />
+            <mxPoint x="1784.5" y="2802" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-VlYE09TAhGmRK6XJcK8-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="hash: 78" vertex="1">
+          <mxGeometry height="30" width="104" x="1785.5" y="2787" as="geometry" />
+        </mxCell>
+        <mxCell id="-VlYE09TAhGmRK6XJcK8-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="hash: 23" vertex="1">
+          <mxGeometry height="30" width="104" x="1357.5" y="2788" as="geometry" />
+        </mxCell>
+        <mxCell id="-VlYE09TAhGmRK6XJcK8-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="➕" vertex="1">
+          <mxGeometry height="30" width="60" x="1461.5" y="2783.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-VlYE09TAhGmRK6XJcK8-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="这个哈希值，通过查表，查不到已有的block，所以只能分配新的block" vertex="1">
+          <mxGeometry height="30" width="300" x="1910" y="2787" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
